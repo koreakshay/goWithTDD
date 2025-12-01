@@ -1,5 +1,3 @@
-Not sure if I'm learning Go with TDD or TDD with Go
-
 # Background
 I want to grow from being curious about Go to becoming an effective writer of Go systems.
 
